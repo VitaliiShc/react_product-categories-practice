@@ -47,7 +47,7 @@ function filterProducts(
 ) {
   const filteredProducts = productsList
     .filter(product => {
-      if (userId === null) {
+      if (!userId) {
         return productsList;
       }
 
@@ -57,7 +57,7 @@ function filterProducts(
       return product.name.toLowerCase().includes(query.toLowerCase());
     })
     .filter(product => {
-      if (categories.length === 0) {
+      if (!categories.length) {
         return product;
       }
 
