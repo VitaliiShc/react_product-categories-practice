@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Milk",
+    "categoryId": 2,
+    "category": {
+      "id": 2,
+      "title": "Drinks",
+      "icon": "🍺",
+      "ownerId": 1,
+      "owner": {
+        "id": 1,
+        "name": "Roma",
+        "sex": "m"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Bread",
+    "categoryId": 1,
+    "category": {
+      "id": 1,
+      "title": "Grocery",
+      "icon": "🍞",
+      "ownerId": 2,
+      "owner": {
+        "id": 2,
+        "name": "Anna",
+        "sex": "f"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Eggs",
+    "categoryId": 1,
+    "category": {
+      "id": 1,
+      "title": "Grocery",
+      "icon": "🍞",
+      "ownerId": 2,
+      "owner": {
+        "id": 2,
+        "name": "Anna",
+        "sex": "f"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "Jacket",
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "title": "Clothes",
+      "icon": "👚",
+      "ownerId": 3,
+      "owner": {
+        "id": 3,
+        "name": "Max",
+        "sex": "m"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "Sugar",
+    "categoryId": 1,
+    "category": {
+      "id": 1,
+      "title": "Grocery",
+      "icon": "🍞",
+      "ownerId": 2,
+      "owner": {
+        "id": 2,
+        "name": "Anna",
+        "sex": "f"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": "Banana",
+    "categoryId": 3,
+    "category": {
+      "id": 3,
+      "title": "Fruits",
+      "icon": "🍏",
+      "ownerId": 2,
+      "owner": {
+        "id": 2,
+        "name": "Anna",
+        "sex": "f"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "name": "Beer",
+    "categoryId": 2,
+    "category": {
+      "id": 2,
+      "title": "Drinks",
+      "icon": "🍺",
+      "ownerId": 1,
+      "owner": {
+        "id": 1,
+        "name": "Roma",
+        "sex": "m"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "name": "Socks",
+    "categoryId": 5,
+    "category": {
+      "id": 5,
+      "title": "Clothes",
+      "icon": "👚",
+      "ownerId": 3,
+      "owner": {
+        "id": 3,
+        "name": "Max",
+        "sex": "m"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "name": "Apples",
+    "categoryId": 3,
+    "category": {
+      "id": 3,
+      "title": "Fruits",
+      "icon": "🍏",
+      "ownerId": 2,
+      "owner": {
+        "id": 2,
+        "name": "Anna",
+        "sex": "f"
+      }
+    }
+  }
+]
